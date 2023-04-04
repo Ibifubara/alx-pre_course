@@ -1,3 +1,3 @@
-Successfully pushed commits
-Made several changes
-Changed default from master to main 
+Successfully pushed commits,
+made several changes and
+changed default from master to main 
